@@ -1,0 +1,7 @@
+# file_database.csv
+
+Path,Type,Size,Owner
+
+/home/user/document.txt,Text,1024,user
+/home/user/image.jpg,Image,2048,user
+/home/epk2004/burai/asd,regular empty file,0,burai
